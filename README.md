@@ -29,11 +29,16 @@ End-to-end healthcare analytics project built using Excel, SQL, Power BI, and Ta
 - Department Performance
 - Patient Satisfaction
 
-## Dashboard Preview
+## Dashboard Screenshots
 
+### Excel Dashboard
 ![Excel Dashboard](Excel_Dashboard.png)
 
-![Power BI](Excel_Dasboard.png)
+### Power BI Dashboard
+![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
+
+### Tableau Dashboard
+![Tableau Dashboard](Screenshots/Tableau_Dashboard.png)
 
 ## Business Insights
 
