@@ -33,6 +33,8 @@ End-to-end healthcare analytics project built using Excel, SQL, Power BI, and Ta
 
 ![Excel Dashboard](Excel_Dashboard.png)
 
+![Power BI](Excel_Dasboard.png)
+
 ## Business Insights
 
 - Identified high-performing departments
