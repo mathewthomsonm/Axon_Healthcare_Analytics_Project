@@ -35,7 +35,7 @@ End-to-end healthcare analytics project built using Excel, SQL, Power BI, and Ta
 ![Excel Dashboard](Excel_Dashboard.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](Screenshots/PowerBI_Dashboard.png)
+![Power BI Dashboard](PowerBI_Healthcare_Dashboard.png)
 
 ### Tableau Dashboard
 ![Tableau Dashboard](Screenshots/Tableau_Dashboard.png)
